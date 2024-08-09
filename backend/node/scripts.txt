@@ -1,0 +1,2 @@
+yarn add prisma init --datasource-provider SQLite
+npx prisma init --datasource-provider SQLite
